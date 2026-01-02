@@ -1,4 +1,3 @@
-```markdown
 # DEX AMM Project
 
 ## Overview
@@ -92,5 +91,3 @@ The test suite is designed to achieve ≥ 80% code coverage as per project requi
 3.  **deploy.js**: Verify you have a deployment script in the `scripts/` folder as requested.
 
 Would you like me to help you double-check any specific part of your `DEX.sol` code before you submit?
-
-```
