@@ -84,10 +84,3 @@ The test suite is designed to achieve ≥ 80% code coverage as per project requi
 * LP tokens use internal accounting and are not transferable ERC-20 tokens.
 
 ```
-
-**Final Steps for Submission:**
-1.  **test.png**: Ensure this is the screenshot of your terminal showing **"27 passing"**.
-2.  **coverage.png**: Ensure this is the screenshot of your **`npx hardhat coverage`** table.
-3.  **deploy.js**: Verify you have a deployment script in the `scripts/` folder as requested.
-
-Would you like me to help you double-check any specific part of your `DEX.sol` code before you submit?
