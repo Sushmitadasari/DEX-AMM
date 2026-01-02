@@ -1,7 +1,3 @@
-To finalize your project, here is the complete **README.md** in raw markdown format. I have integrated the information from your project description, the mathematical formulas required, and the placeholder tags for your screenshots `test.png` and `coverage.png`.
-
-Place this content into a file named `README.md` in your project root.
-
 ```markdown
 # DEX AMM Project
 
