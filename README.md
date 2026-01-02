@@ -83,4 +83,14 @@ The test suite is designed to achieve ≥ 80% code coverage as per project requi
 * No built-in slippage protection or deadline parameters.
 * LP tokens use internal accounting and are not transferable ERC-20 tokens.
 
-```
+## 📸 Screenshots
+
+### Test Results
+<p align="center">
+  <img src="screenshots/test.png" width="800" />
+</p>
+
+### Test Coverage
+<p align="center">
+  <img src="screenshots/coverage.png" width="800" />
+</p>
